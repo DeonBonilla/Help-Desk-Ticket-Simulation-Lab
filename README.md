@@ -86,35 +86,35 @@ The goal of this lab is to demonstrate practical troubleshooting skills, custome
 
 ### 🔑 Account Access Issues
 
-This screenshot shows a simulated help desk ticket for an account access issue, such as a password reset, locked account, or login failure.
+This screenshot shows a help desk ticket for an account access issue, such as a password reset, locked account, or login failure.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/81054c66-e068-4dd5-9a6d-7a5e2b77b26f" />
 
 
 ### 🌐 Network Connectivity
 
-This screenshot shows a simulated help desk ticket involving network connectivity troubleshooting, including no internet connection, DNS issues, or IP configuration problems.
+This screenshot shows a help desk ticket involving network connectivity troubleshooting, including no internet connection, DNS issues, or IP configuration problems.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc4210bb-2f4a-438f-b50b-830195947c80" />
 
 
 ### 🖨️ Printer Support
 
-This screenshot shows a simulated help desk ticket for printer troubleshooting, including printer offline status, print queue issues, driver installation, or printer connectivity problems.
+This screenshot shows a help desk ticket for printer troubleshooting, including printer offline status, print queue issues, driver installation, or printer connectivity problems.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3b750b18-5856-4f7b-8234-7e84cf5b4bb5" />
 
 
 ### 💻 Software Support
 
-This screenshot shows a simulated help desk ticket related to software support, such as application installation failures, software updates, permission errors, or compatibility issues.
+This screenshot shows a help desk ticket related to software support, such as application installation failures, software updates, permission errors, or compatibility issues.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ae88dd4-2982-4732-b889-259ef6f549c8" />
 
 
 ### 🖥️ Windows Support
 
-This screenshot shows a simulated help desk ticket for Windows troubleshooting, including slow performance, startup issues, Device Manager errors, or general operating system support.
+This screenshot shows a help desk ticket for Windows troubleshooting, including slow performance, startup issues, Device Manager errors, or general operating system support.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b126ff19-60c0-4a45-993e-4a0cc75511d6" />
 
@@ -122,7 +122,7 @@ This screenshot shows a simulated help desk ticket for Windows troubleshooting, 
 
 ### 📂 File Access
 
-This screenshot shows a simulated help desk ticket involving shared folder access, permission issues, drive mapping, or access denied errors.
+This screenshot shows a help desk ticket involving shared folder access, permission issues, drive mapping, or access denied errors.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/016eea57-ea6f-4bbe-a90a-50f7ab3dc9dd" />
 
